@@ -16,10 +16,13 @@ app.controller(
 
         //aray
         $scope.students =[
-            "AMULYA E",
-            "AKSHAY U SHET",
-            "AMRUTHA H S",
-            "AYUSH KUMAR K S",
+            "PRAMOD",
+            "HARSHITHA",
+            "POORNIMA",
+            "AMRUTHA",
+            "HARISH",
+            "ANKITHA",
+            "RAJU",
         ];
     }
 );
