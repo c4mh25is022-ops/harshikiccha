@@ -10,7 +10,7 @@ app.controller('CollegeController', function($scope) {
 
 app.controller(
     "StudentController", function($scope) {
-        $scope.name = "john";
+        $scope.name = "HARSHITHA";
         $scope.department = "Computer Science";
         $scope.semester = 3;
 
